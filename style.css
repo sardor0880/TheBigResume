@@ -1,0 +1,107 @@
+*{
+   font-family: 'Indie Flower', cursive;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+   font-size: 40px;
+}
+h3{
+   font-size: 35px;
+}
+h4{
+    font-size: 30px;
+}
+p{
+    font-size: 18px;
+}
+.site-title{
+    margin-top: 180px;
+}
+.title-text{
+    line-height: 80px;
+    letter-spacing: 10px;
+}
+.navbar-nav{
+    margin-left: 650px;
+}
+.nav-item{
+    padding: 10px;
+}
+.active{
+    width: 165px;
+    font-size: 20px;
+}
+.navbar-brand{
+    margin-left: 35px;
+   
+}
+.home{
+    color: blueviolet;
+}
+.nav-item:hover{
+    color: blueviolet;
+    font-size: 20px;
+}
+.site-main .site-banner {
+    background: url(../img/banner/home-banner.png)
+     no-repeat 4% 4%;
+   
+   
+}
+.site-main .brand-area .experience-area .years-area{
+    background: url(../img/client-info-bg.png) no-repeat 45px 20px;
+    padding: 2rem 0;
+    width: 40rem;
+    height: 18rem;
+    padding-left: 8rem;
+    position: relative;
+}
+.site-main .subscribe-us-area .subscribe{
+    background: url(../img/subscribe-bg.png) no-repeat;
+    padding: 10rem 0;
+    margin: 60px 180px;
+    width: 1200px;
+}
+footer.footer-area{
+    background: url(../img/footer-bg.png) no-repeat;
+}
+.primary-button, .secondary-button{
+    border: 1px solid blueviolet;
+    margin-left: 8px;
+}
+.primary-button:hover, .secondary-button:hover{
+    background-color: blueviolet;
+    color: #fff;
+    box-shadow: 1px 1px 1px 1px rgb(64, 58, 58);
+}
+.single-brand{
+    margin-top: 60px;
+    cursor: pointer;
+
+
+}
+.brand1:hover, .brand2:hover, .brand3:hover, .brand4:hover, .brand5:hover, .brand6:hover, .brand7:hover, .brand8:hover, .brand9:hover{
+    height: 100px;
+}
+.font-roboto{
+    font-size: 20px;
+}
+.h4{
+    color: blueviolet;
+}
+.project-title{
+    margin-top: 30px;
+}
+.grid{
+    margin-top: 50px;
+}
+.client{
+    border: 1px solid black;
+    padding: 15px;
+    padding-top: 30px;
+    margin-top: 15px;
+    background-color: blueviolet;
+    color: #fff;
+}
